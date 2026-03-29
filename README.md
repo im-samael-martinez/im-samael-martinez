@@ -3,8 +3,6 @@
 I am a passionate Software Engineer currently working as a Consultant for a multinational information technology services and consulting firm.
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## 🚀 About Me
 
