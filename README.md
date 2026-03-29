@@ -1,7 +1,33 @@
-## Hi there 👋
+# Hi, I'm Samael! 👋
+
+I am a passionate Software Engineer currently working as a Consultant for a multinational information technology services and consulting firm.
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=CrossHusky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing certification in Cloud (AWS, Azure, GCP).
+- 🌐 I try to stay as low profile as possible but you can definitely reach out and will reply asap.
+- 👯 I’m looking to collaborate to Open Source Projects.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,aws,azure,gcp,linux,terraform,spring,kubernetes,kafka,jenkins,gherkin,git,github,githubactions,docker,bash)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Exploring AI and Automation
+
+ ## 🏆 Achievements
+
+- 🌟 Obtained Computer Systems Engineering Degree from Universidad Autónoma de Aguascalientes
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/im-samael-martinez/)
+
 
 <!--
-**im-samael-martinez/im-samael-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CrossHusky/CrossHusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
