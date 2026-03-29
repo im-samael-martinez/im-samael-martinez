@@ -2,7 +2,9 @@
 
 I am a passionate Software Engineer currently working as a Consultant for a multinational information technology services and consulting firm.
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=CrossHusky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## 🚀 About Me
 
