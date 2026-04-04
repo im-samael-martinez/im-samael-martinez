@@ -10,7 +10,7 @@ I am a passionate Software Engineer currently working as a Consultant for a mult
 - 🌐 I try to stay as low profile as possible but you can definitely reach out and will reply asap.
 - 👯 I’m looking to collaborate to Open Source Projects.
 
-## Tech Stack
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=angular,nextjs,aws,azure,gcp,linux,terraform,spring,kubernetes,kafka,jenkins,gherkin,git,github,githubactions,docker,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
