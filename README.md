@@ -11,7 +11,7 @@ I am a passionate Software Engineer currently working as a Consultant for a mult
 - 👯 I’m looking to collaborate to Open Source Projects.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,aws,azure,gcp,linux,terraform,spring,kubernetes,kafka,jenkins,gherkin,git,github,githubactions,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=angularjs,reactjs,nextjs,reactnative,expo,vuejs,nuxtjs,nodejs,expressjs,nestjs,jest,spring,springboot,junit5,mysql,postgresql,sqlserver,azure,amazonwebservices,googlecloud,terraform,docker,kubernetes,git,github,githubactions,jenkins,python,linux,bash)](https://builder.syvixor.com/)
 
 ## 🌱 Currently Exploring
 
